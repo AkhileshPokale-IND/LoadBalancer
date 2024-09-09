@@ -21,7 +21,7 @@ Make sure you have the following software installed on your system:
    ```
 2. Change into the project directory:
    ```bash
-   cd your-repository
+   cd LoadBalancer
    ```
 3. Build the project:
 
